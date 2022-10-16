@@ -2,7 +2,7 @@
  ##### My name is Silvio, from Brazil. <h4>
 
 - 🔭 I’m a mechanical engineer student
-- 🌱 Currently learning Python
+- 🌱 Currently learning Python and GO
 - 😄 Pronouns: he/him
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter, Percy Jackson and Lord of the Rings
 
